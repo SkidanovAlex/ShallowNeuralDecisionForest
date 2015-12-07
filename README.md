@@ -1,5 +1,5 @@
 # ShallowNeuralDecisionForest
-Implementation of Deep Neural Decision Forest based on CMU and MSR paper:
+Implementation of Deep Neural Decision Forest based on MSR paper:
 
 http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf
 
